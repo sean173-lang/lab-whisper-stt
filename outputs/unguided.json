@@ -1,0 +1,17 @@
+[
+  {
+    "start": 0.0,
+    "end": 10.0,
+    "text": "Good morning everyone. Welcome to our project meeting. Today we will discuss OpenAI, Python, API integration, and our upcoming project deadline."
+  },
+  {
+    "start": 10.0,
+    "end": 17.0,
+    "text": "Our team needs to finish the transcription system by Friday. We will use Whisper to convert meeting recordings into text."
+  },
+  {
+    "start": 17.0,
+    "end": 19.0,
+    "text": "Thank you everyone."
+  }
+]
