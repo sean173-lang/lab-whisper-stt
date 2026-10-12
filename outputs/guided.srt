@@ -1,0 +1,8 @@
+1
+00:00:01,000 --> 00:00:09,000
+Good morning everyone. Welcome to our project meeting. Today we will discuss OpenAI, Python, API integration, and our upcoming project deadline.
+
+2
+00:00:10,000 --> 00:00:18,000
+Our team needs to finish the transcription system by Friday. We will use Whisper to convert meeting recordings into text. Thank you everyone.
+
